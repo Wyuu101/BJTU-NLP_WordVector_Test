@@ -3,16 +3,16 @@
 
 # 实验内容简介
 
-## 1、分词预处理
+- 1、分词预处理
 
-## 2、词向量训练
+- 2、词向量训练
 
-## 3、词向量的性质分析
+- 3、词向量的性质分析
 
-## 4、通过PCA降维后直接打印词向量并形成二维可视图
+- 4、通过PCA降维后直接打印词向量并形成二维可视图
 
-![image](https://github.com/user-attachments/assets/db88755f-e672-4394-ac05-478010512690)
+  ![image](https://github.com/user-attachments/assets/db88755f-e672-4394-ac05-478010512690)
 
-## 5、词向量三维制图
+- 5、词向量三维制图
 
-![image](https://github.com/user-attachments/assets/dd5d4e18-bc1e-4e72-818d-8f733478108f)
+  ![image](https://github.com/user-attachments/assets/dd5d4e18-bc1e-4e72-818d-8f733478108f)
